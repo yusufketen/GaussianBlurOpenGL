@@ -1,7 +1,7 @@
 # Gaussian Blur Effect for Images
 
-<img src="res/images/GaussianBlurDisabled.png" alt=""/>
 <img src="res/images/GaussianBlurEnabled.png" alt=""/>
+<img src="res/images/GaussianBlurDisabled.png" alt=""/>
 
 ## Features
 - Optimized shaders for the Gaussian Blur effect
