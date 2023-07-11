@@ -1,10 +1,10 @@
 # Gaussian Blur Effect for Images
 
-<img src="res/images/GaussianBlurDisabled.png" alt="" width="450" height="350"/>
-<img src="res/images/GaussianBlurEnabled.png" alt="" width="450" height="350"/>
+<img src="res/images/GaussianBlurDisabled.png" alt=""/>
+<img src="res/images/GaussianBlurEnabled.png" alt=""/>
 
 ## Features
-- Optimized shaders for Gaussian Blur effect
+- Optimized shaders for the Gaussian Blur effect
 - GUI for testing the kernel values
 - Save output as a file
 - VSync
